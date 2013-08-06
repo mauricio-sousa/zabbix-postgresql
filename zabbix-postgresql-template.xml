@@ -90,7 +90,7 @@
                     <description>Discovery postgresql database</description>
                     <item_prototypes>
                         <item_prototype>
-                            <name>Databse cache (PostgreSQL) on $1 (procentage)</name>
+                            <name>Database cache (PostgreSQL) on $1 (procentage)</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -129,7 +129,7 @@
                             <valuemap/>
                         </item_prototype>
                         <item_prototype>
-                            <name>Databse commited (PostgreSQL) on $1</name>
+                            <name>Database commited (PostgreSQL) on $1</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -168,7 +168,7 @@
                             <valuemap/>
                         </item_prototype>
                         <item_prototype>
-                            <name>Databse deleted (PostgreSQL) on $1</name>
+                            <name>Database deleted (PostgreSQL) on $1</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -207,7 +207,7 @@
                             <valuemap/>
                         </item_prototype>
                         <item_prototype>
-                            <name>Databse fetched (PostgreSQL) on $1</name>
+                            <name>Database fetched (PostgreSQL) on $1</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -246,7 +246,7 @@
                             <valuemap/>
                         </item_prototype>
                         <item_prototype>
-                            <name>Databse inserted (PostgreSQL) on $1</name>
+                            <name>Database inserted (PostgreSQL) on $1</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -285,7 +285,7 @@
                             <valuemap/>
                         </item_prototype>
                         <item_prototype>
-                            <name>Databse size (PostgreSQL) on $1</name>
+                            <name>Database size (PostgreSQL) on $1</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -324,7 +324,7 @@
                             <valuemap/>
                         </item_prototype>
                         <item_prototype>
-                            <name>Databse success rate (PostgreSQL) on $1 (procentage)</name>
+                            <name>Database success rate (PostgreSQL) on $1 (procentage)</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -363,7 +363,7 @@
                             <valuemap/>
                         </item_prototype>
                         <item_prototype>
-                            <name>Databse updated (PostgreSQL) on $1</name>
+                            <name>Database updated (PostgreSQL) on $1</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -405,7 +405,7 @@
                     <trigger_prototypes/>
                     <graph_prototypes>
                         <graph_prototype>
-                            <name>Databse size (PostgreSQL) on {#DBNAME}</name>
+                            <name>Database size (PostgreSQL) on {#DBNAME}</name>
                             <width>900</width>
                             <height>200</height>
                             <yaxismin>0.0000</yaxismin>
